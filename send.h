@@ -1,0 +1,1 @@
+int sendMessage(char* hostname, char* remoteport, char* message);
